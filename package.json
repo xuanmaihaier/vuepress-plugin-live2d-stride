@@ -1,0 +1,17 @@
+{
+  "name": "vuepress-plugin-live2d-stride",
+  "version": "1.0.0",
+  "description": "vuepress自定义看板娘",
+  "main": "index.js",
+  "bin": {
+    "vuepress-plugin-live2d-stride": "enhanceAppFile.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "stride",
+  "license": "ISC"
+}
